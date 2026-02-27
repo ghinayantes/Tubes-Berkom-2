@@ -228,18 +228,6 @@ Project ini melatih:
 
 ---
 
-## 🚀 Pengembangan Selanjutnya (Ide Improvement)
-
-- Sistem login dengan username & password
-- Database (SQLite / MySQL)
-- Sistem saldo user
-- Riwayat transaksi
-- Admin panel
-- GUI (Tkinter / PyQt)
-- Web version (Flask / Django)
-
----
-
 ## 📄 License
 
 Project ini dibuat untuk keperluan pembelajaran.  
